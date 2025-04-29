@@ -25,11 +25,6 @@ The program generates output files containing the positions of the masses over t
 
 Modify these parameters in the source code to explore different scenarios.
 
-## Output
-- Equilibrium Positions: Files like equilibrium_positions.dat contain the final positions of the masses after relaxation.
-- Time Evolution: Files like motion_data.dat track the positions and velocities of masses over time.
-- Visualizations: Use the provided Python scripts to generate plots of the slinky's motion.
-
 ## Examples
 1. Vertical Hanging Slinky:
 - Fix m0 at the origin and simulate the relaxation of other masses under gravity.
