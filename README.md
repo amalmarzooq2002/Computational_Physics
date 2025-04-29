@@ -23,6 +23,12 @@ The program generates output files containing the positions of the masses over t
 - g: Gravitational acceleration (default: 9.8 m/s²).
 - dt: Time step for integration (default: 10⁻⁴ s).
 
+This repository contains code simulations corresponding to key theoretical sections:
+
+- Section **2.1.2**: In the code simulates a catenary-like hanging curve.
+- Section **2.3.1**: In the code models the collapse dynamics of a falling Slinky.
+- Section **2.3.2**: In the code explores forced oscillations and artificial gravity.
+
 Modify these parameters in the source code to explore different scenarios.
 
 ## Examples
