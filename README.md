@@ -11,7 +11,7 @@ This project simulates the motion of a slinky using a system of masses connected
 
 ## Requirements
 - Fortran 90 compiler (e.g., `gfortran`)
-- Python or similar for data visualization (optional, for plotting results)
+- Gnuplot or similar for data visualization (optional, for plotting results)
 
 ## Usage
 The program generates output files containing the positions of the masses over time. These files can be used for further analysis and visualization.
