@@ -1,5 +1,7 @@
 # Slinky Simulation Project
 
+<img src = "Artificial_Gravity"></img>
+
 ## Overview
 This project simulates the motion of a slinky using a system of masses connected by massless springs. The simulation is implemented in Fortran 90 and utilizes the Euler-Cromer numerical method for accurate integration of the equations of motion. The project explores various aspects of slinky dynamics, including vertical hanging, catenary-like curves, and free-falling scenarios.
 
